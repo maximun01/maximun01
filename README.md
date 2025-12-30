@@ -26,8 +26,8 @@ Men biznes jarayonlarini avtomatlashtirish va foydalanuvchilar uchun qulay raqam
 
 ### 📫 Men bilan bog'lanish:
 
-*   **Telegram:** [@maximun_02]
-*   **Email:** asilbek@example.com
+*   **Telegram:** @maximun_02
+*   **Email:** asilbekquvondiqov02@gmail.com
 
 ---
 *"Kod yozish — bu san'at, har bir qator — bu qadam."*
